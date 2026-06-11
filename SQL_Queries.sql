@@ -1,4 +1,3 @@
-SQL_Queries.sql
 SELECT
 ROUND(SUM(Sales),2) AS TotalSales,
 ROUND(SUM(Profit),2) AS TotalProfit,
