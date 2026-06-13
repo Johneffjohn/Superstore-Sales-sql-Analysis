@@ -22,10 +22,13 @@ ORDER BY
 Business performance analysis
 
 ##  Key Insights
-Regional profitability varies significantly.
-Some sub-categories generate losses despite strong sales.
-Excessive discounts negatively impact profit.
-High-performing categories contribute disproportionately to business success.
+- West region showed the highest profitability
+- Furniture category generated the lowest profit margins
+- High discounts consistently reduced profit levels
+- Regional profitability varies significantly.
+- Some sub-categories generate losses despite strong sales.
+- Excessive discounts negatively impact profit.
+- High-performing categories contribute disproportionately to business success.
 
 ##  Business Recommendations
 Optimize discount strategies.
